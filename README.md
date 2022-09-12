@@ -1,5 +1,5 @@
 # frtpro
-Here I have created a an online Spicy Food store which give genuine and cheap products to the visitors.
+Here I have created an online Spicy Food store which give genuine and cheap products to the visitors.
 This is my Final Project
 # Azure Link :https://black-hill-0152abd10.1.azurestaticapps.net
 ## Home
